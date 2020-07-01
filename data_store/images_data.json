@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "description": "This image shows Sh 2-106, or S106 for short. This is a compact star forming region in the constellation Cygnus (The Swan). A newly-formed star called S106 IR is shrouded in dust at the centre of the image, and is responsible for the surrounding gas cloud’s hourglass-like shape and the turbulence visible within. Light from glowing hydrogen is coloured blue in this image. The image combines observations from the Hubble Space Telescope (in the centre) with images from the National Astronomical Observatory of Japan’s Subaru Telescope to extend the field of view around the edges of the image.",
+      "credit": "NASA, ESA, the Hubble Heritage Team (STScI/AURA) and NAOJ.",
+      "id": "heic1118b",
+      "type": "Observation",
+      "release_date": "15 December 2011, 15:00",
+      "related_releases": "heic1118",
+      "width": 8163,
+      "height": 8046
+    },
+    {
+      "description": "A wide-field image of the Veil Nebula, made as a colour composite from individual exposures from the Digitized Sky Survey 2. The field of view is 4.2 x 4.4 degrees.",
+      "credit": "NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and the Digitized Sky Survey 2. Acknowledgment: J. Hester (Arizona State University) and Davide De Martin (ESA/Hubble)",
+      "id": "heic0712g",
+      "type": "Observation",
+      "release_date": "31 July 2007, 15:00",
+      "related_releases": "heic0712",
+      "width": 13344,
+      "height": 13720
+    }
+  ]
+}

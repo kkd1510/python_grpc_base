@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+service Image {
+    rpc GetImageInformation (ImageRequest) returns (ImageReply) {}
+}
+
+message ImageRequest {
+    string id = 1;
+}
+
+message ImageReply {
+    string id = 1;
+    string type = 2;
+    string release_date = 3;
+    string related_releases = 4;
+    int32 width = 5;
+    int32 height = 6;
+    string credit = 7;
+    string description = 8;
+}
